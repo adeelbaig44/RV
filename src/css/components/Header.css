@@ -1,0 +1,13 @@
+/* Header Component Style */
+.appbar_title {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+}
+.box {
+  width: 98%;
+}
+header_text {
+  color: #d94e3b;
+  font-size: 20px;
+}

@@ -1,0 +1,17 @@
+/* Importing all CSS files */
+@import url("./components/Header.css");
+@import url("./components/Home.css");
+@import url("./components/DropdownBar.css");
+@import url("./components/Product.css");
+@import url("./components/SelectType.css");
+/* Defaults */
+
+/* Primary Variables */
+body {
+  background-image: url("../assets/IMG/IMG1.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #e5e5e5;
+  overflow-x: hidden;
+}
